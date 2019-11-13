@@ -1,6 +1,6 @@
 # Carpentries training: Jupyther/PyROOT session
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oshadura/carpentry-root-training/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oshadura/carpentries-root-training.git/master)
 
 Material was assembled from:
 * ROOT Training courses: https://github.com/root-project/training
