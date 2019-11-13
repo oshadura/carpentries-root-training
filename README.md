@@ -1,4 +1,4 @@
-# Carpentries training: Jupyther/PyROOT session
+# Carpentries training: Jupyter/PyROOT session
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oshadura/carpentries-root-training.git/master)
 
