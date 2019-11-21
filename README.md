@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/oshadura/carpentries-root-training.git/master)
 
-|open-swan| image::  https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg
+.. |open-swan| image::  https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg
     :target: https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/oshadura/carpentries-root-training.git
     :alt: Open in SWAN
 
